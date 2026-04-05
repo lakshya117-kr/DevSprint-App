@@ -7,6 +7,7 @@ import com.example.myapplication.databinding.ActivityMainBinding // If using Vie
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
+//done
 
     private lateinit var binding: ActivityMainBinding
 
